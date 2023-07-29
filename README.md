@@ -2,7 +2,7 @@
 aprenda html
 ## Links indicados
 ### Planejamento
-[Clifise](http://clifise....vou ainda criar)
+[Clifise](http://clifise.vou.ainda.criar)
 
 [teste](https://html5css3.com.br/)
 
